@@ -1,71 +1,70 @@
-# 🚀 DevOps Portfolio – Real-World Infrastructure Projects
+<h1 align="center">🚀 AWS + DevOps Portfolio</h1>
 
-Welcome to my **DevOps Portfolio**, where I showcase a curated collection of **production-grade, real-world infrastructure projects** built using AWS, Terraform, CI/CD, and modern DevOps tools.
-
-> 💼 These projects reflect how real companies deploy, scale, monitor, and secure cloud infrastructure.
-
----
-
-## 🗂️ Featured Projects
-
-| # | Project Title | Repo | Stack |
-|--:|----------------------------|------|-------|
-| 1 | [VPC with Public & Private Subnets](https://github.com/abdulraheem/vpc-networking-infra) | `Terraform` · `AWS` |
-| 2 | [CI/CD Pipeline for Node.js App on ECS Fargate](https://github.com/abdulraheem/ecs-pipeline-nodejs) | `Docker` · `GitHub Actions` · `ECR` · `ECS` |
-| 3 | [Auto Scaling WordPress with ALB + RDS](https://github.com/abdulraheem/wordpress-autoscaling-stack) | `EC2` · `ASG` · `RDS` · `CloudWatch` |
-| 4 | [S3 + CloudFront Static Website with HTTPS](https://github.com/abdulraheem/cloudfront-s3-static-hosting) | `S3` · `CloudFront` · `Route53` |
-| 5 | [Monitoring & Alerting with CloudWatch](https://github.com/abdulraheem/cloudwatch-infra-observability) | `CloudWatch` · `SNS` · `Metrics` |
-| 6 | [Modular Terraform Infrastructure Setup](https://github.com/abdulraheem/modular-terraform-aws) | `Terraform Modules` |
-| 7 | [Bastion Host & SSH Hardening](https://github.com/abdulraheem/aws-bastion-secure-access) | `EC2` · `IAM` · `SG` |
-| 8 | [Multi-Region S3 Disaster Recovery Setup](https://github.com/abdulraheem/s3-dr-multi-region) | `S3` · `Lambda` · `EventBridge` |
-| 9 | [Cloud Resume Challenge (Infra Only)](https://github.com/abdulraheem/cloud-resume-infra) | `Route53` · `API Gateway` · `DynamoDB` |
-| 10 | [Final Project: Prod-Ready Full Stack Infra](https://github.com/abdulraheem/devops-final-pipeline) | `CI/CD` · `IaC` · `Monitoring` · `Security` |
-
-> 🧠 Each repo includes a breakdown of the architecture, configs, and deployment strategy.
+<p align="center">
+A curated collection of real-world AWS + DevOps projects showcasing CI/CD, IaC, Cloud Automation, and more.
+</p>
 
 ---
 
-## 🎯 Objective
+## 📌 Overview
 
-- ✅ Demonstrate real-world DevOps and Cloud Engineering capabilities
-- ✅ Build infrastructure the way **companies** do
-- ✅ Focus on production-grade design, automation, and observability
+Welcome to my AWS + DevOps project portfolio — built with the goal of mastering infrastructure automation, CI/CD pipelines, monitoring, and modern cloud-native tooling.
 
----
-
-## 🛠️ Tools & Technologies
-
-- ☁️ **AWS**: EC2, S3, ECS, RDS, Route53, CloudWatch, IAM
-- 🔁 **CI/CD**: GitHub Actions, Docker, Webhooks
-- 🧱 **IaC**: Terraform (with modules)
-- 🔒 **Security**: IAM, Bastion, KMS, WAF
-- 📊 **Monitoring**: CloudWatch Logs, Alarms, Dashboards
-- 🗂️ **Version Control**: Git, GitHub
+Each project is designed to simulate real-world use-cases you'd find in production environments.
 
 ---
 
-## ✍️ Articles / Case Studies
+## 📁 Projects List
 
-📝 For deep-dives on each project, visit my blog:  
-**[DevOps Diaries →](https://abdulraheem.hashnode.dev/)**
+| # | Project Title | Key Concepts | Repo Link |
+|--|---------------|--------------|-----------|
+| 1 | VPC + EC2 Setup with CLI | AWS CLI, EC2, KeyPairs, IAM | [View Repo](https://github.com/abdulraheem381/project-1-vpc-ec2) |
+| 2 | S3 Static Website Hosting | S3, Bucket Policy, CloudFront | [View Repo](https://github.com/abdulraheem381/project-2-s3-hosting) |
+| 3 | Lambda + CloudWatch Alerts | Event Triggers, Logs, Monitoring | [View Repo](https://github.com/abdulraheem381/project-3-lambda-alerts) |
+| 4 | CI/CD with GitHub Actions | Pipeline, Secrets, Docker Deploy | [View Repo](https://github.com/abdulraheem381/project-4-ci-cd-github) |
+| 5 | Terraform Infra Automation | IaC, Terraform Modules, State | [View Repo](https://github.com/abdulraheem381/project-5-terraform-infra) |
 
----
-
-## 📃 License
-
-All projects are licensed under the [MIT License](./LICENSE).  
-Feel free to explore, fork, or use as inspiration.
-
----
-
-## 🙌 Connect with Me
-
-- 🔗 [LinkedIn](https://linkedin.com/in/your-link)
-- 📖 [Hashnode](https://abdulraheem.hashnode.dev/)
-- 💻 [GitHub](https://github.com/abdulraheem381)
+> 🧠 **More projects coming daily... Stay tuned!**
 
 ---
 
-> ⭐️ If you find these projects useful, give them a star to support the portfolio and open learning!
+## 🔥 Focus Areas
+
+- Infrastructure as Code (Terraform, AWS CDK)
+- CI/CD Automation (GitHub Actions, GitLab CI)
+- Cloud Monitoring (CloudWatch, SNS, Logs)
+- Serverless Architectures (Lambda, API Gateway)
+- Docker & Containerization
+- IAM & Security Best Practices
 
 ---
+
+## 🧠 Why This Portfolio?
+
+- ✅ To showcase **real-world DevOps workflows**
+- ✅ To **learn in public** and document my growth
+- ✅ To attract DevOps/Cloud engineering roles
+
+---
+
+## 🪄 How I Built This
+
+Most projects are built via:
+- 🖥️ **AWS Console**
+- ⚙️ **AWS CLI + SDKs**
+- 🛠️ **Terraform (in select projects)**
+- 🔁 Iterative learning + real implementation
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: shadowpulse.pentest@gmail.com  
+- 📝 Blog: [DevOps Diaries](https://abdulraheem.hashnode.dev)  
+- 💼 Portfolio: [GitHub Profile](https://github.com/abdulraheem381)
+
+---
+
+<p align="center">
+🚀 Building the cloud, one YAML file at a time.
+</p>
