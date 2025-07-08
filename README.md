@@ -62,7 +62,7 @@ Feel free to explore, fork, or use as inspiration.
 
 - 🔗 [LinkedIn](https://linkedin.com/in/your-link)
 - 📖 [Hashnode](https://abdulraheem.hashnode.dev/)
-- 💻 [GitHub](https://github.com/abdulraheem)
+- 💻 [GitHub](https://github.com/abdulraheem381)
 
 ---
 
