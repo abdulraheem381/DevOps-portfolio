@@ -28,6 +28,21 @@ Each project is designed to simulate real-world use-cases you'd find in producti
 
 ---
 
+---
+
+## 🎯 Skills Coverage
+
+| Required Skill                                              | Demonstrated In                                                  |
+|-------------------------------------------------------------|------------------------------------------------------------------|
+| **AWS: EKS, RDS, VPC**                                      | Projects 1, 2, 4, 5, 9                                           |
+| **Docker & Kubernetes**                                     | Projects 2, 3, 7, 8                                              |
+| **Linux‑based Infrastructure**                              | Projects 1, 6, 9                                                 |
+| **Terraform (IaC)**                                         | Projects 1, 2, 4, 6, 9                                           |
+| **CI/CD with GitHub Actions**                               | Projects 1, 3, 7, 8                                              |
+| **Observability (Datadog or similar)**                      | **👉 New Project 11: Datadog Monitoring on EKS**                 |
+| **Communication & Documentation**                           | README + architecture diagrams in **all** projects               |
+
+
 ## 🔥 Focus Areas
 
 - Infrastructure as Code (Terraform, AWS CDK)
